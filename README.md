@@ -1,2 +1,2 @@
 # pihole-vietnam
-content ad host in voetnam (not update 3/10/2023)
+content ad host in vietnam (not update 3/10/2023)
